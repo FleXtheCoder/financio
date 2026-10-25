@@ -6,7 +6,7 @@ No Electron, no browser, no cloud — just Swift + AppKit, local storage, and au
 
 ![macOS](https://img.shields.io/badge/macOS-14%2B-black)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
-![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Features
 
@@ -83,4 +83,4 @@ All data stays on your Mac. No telemetry, no accounts, no network access from th
 
 ## License
 
-No license file yet. Feel free to add one (e.g. MIT) if you fork or contribute.
+MIT — free to use, modify, and distribute for any purpose. See [LICENSE](LICENSE).
